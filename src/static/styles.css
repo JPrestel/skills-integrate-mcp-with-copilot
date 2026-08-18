@@ -28,6 +28,19 @@ header h1 {
   margin-bottom: 10px;
 }
 
+#teacher-controls {
+  margin-top: 15px;
+}
+
+#teacher-status {
+  margin-left: 10px;
+}
+
+#login-required {
+  margin-top: 15px;
+  color: #666;
+}
+
 main {
   display: flex;
   flex-wrap: wrap;
